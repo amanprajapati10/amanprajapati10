@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Aman Prajapati 👋
 
-<!--
-**amanprajapati10/amanprajapati10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+📊 Aspiring Data Engineer & AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Working with PySpark, Databricks, AWS, SQL, Python & Java
+
+🤖 Exploring Machine Learning, LLMs, and AI-Powered Data Systems
+
+🚀 Passionate about building scalable data pipelines and intelligent analytics solutions
+
+## 🛠️ Tech Stack
+
+- Python
+- Java
+- SQL
+- PySpark
+- Databricks
+- AWS
+- Machine Learning
+- Linux
+  
+
+## 🌱 Currently Learning
+
+- Advanced Data Engineering
+- MLOps
+- Generative AI
+- LLM Applications
+
+## 🎯 Career Goal
+
+To build intelligent and scalable data platforms that combine the power of Big Data and Artificial Intelligence.
