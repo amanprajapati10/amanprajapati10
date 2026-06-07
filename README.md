@@ -31,4 +31,5 @@
 
 ## 🎯 Career Goal
 
-To build intelligent and scalable data platforms that combine the power of Big Data and Artificial Intelligence.
+To become a Data Engineer specializing in Big Data and AI,
+building scalable data platforms that enable intelligent decision-making.
