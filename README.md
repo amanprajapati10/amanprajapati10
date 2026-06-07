@@ -33,3 +33,9 @@
 
 To become a Data Engineer specializing in Big Data and AI,
 building scalable data platforms that enable intelligent decision-making.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanprajapati&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanprajapati&layout=compact&theme=tokyonight)
